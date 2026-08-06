@@ -1,8 +1,9 @@
 {
-  "source_sha256": "c748623073d6cd53de43bb056f32326a423bf46a1d20f61cdb048bfb7b2d100e",
-  "source_bytes": 186676,
-  "compression": "lzma-xz",
-  "compressed_b64_chars": 57340,
-  "parts": 4,
-  "version": "4.1.0"
+  "base_version": "4.0.0",
+  "base_source_sha256": "ecabff72b7b24710c8181e7c741ae6be6eccdcfba0ce27ee1ad5bc383d4467bb",
+  "patch_sha256": "8fe36cb53f36e7376ee85cfc3e0c5cfec3b1bb40b7bf0d0d632ed73a51420d26",
+  "target_version": "4.1.0",
+  "target_source_sha256": "c748623073d6cd53de43bb056f32326a423bf46a1d20f61cdb048bfb7b2d100e",
+  "patch_format": "zstd --patch-from",
+  "patch_parts": 4
 }
