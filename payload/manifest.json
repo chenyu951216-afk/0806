@@ -1,0 +1,8 @@
+{
+  "source_sha256": "c748623073d6cd53de43bb056f32326a423bf46a1d20f61cdb048bfb7b2d100e",
+  "source_bytes": 186676,
+  "compression": "lzma-xz",
+  "compressed_b64_chars": 57340,
+  "parts": 4,
+  "version": "4.1.0"
+}
