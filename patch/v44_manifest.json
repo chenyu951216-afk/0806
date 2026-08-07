@@ -1,0 +1,9 @@
+{
+  "base_version": "4.3.0",
+  "target_version": "4.4.0",
+  "base_source_sha256": "e1c0182b38a3aac8c7e55f7e82a7d1c020d5189fdc82b84754b266609921efea",
+  "patch_sha256": "1bdf23f94573e9b539929402e7c2a07054db1bb6df0260118e667f2e4df0e235",
+  "target_source_sha256": "b3bab91012f1893f40b97cc0671a0b2a0e0fe8dba58d03a68fa8e3d63c970e8d",
+  "patch_bytes": 4628,
+  "patch_parts": 4
+}
